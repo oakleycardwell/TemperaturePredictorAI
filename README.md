@@ -1,4 +1,4 @@
-### Temperature Prediction Using LSTM
+###### Temperature Prediction Using LSTM
 
 This project demonstrates how to predict future temperature data using a Long Short-Term Memory (LSTM) network. The LSTM model is trained on historical weather data and is then used to forecast future temperatures.
 
